@@ -1,0 +1,899 @@
+new
+load  /well/jknight/kate/exomes/haploc_geno/GLAS_EP/out_bams/P-195_locus_merged.out.bam
+load  /well/jknight/kate/exomes/recal/GLAS_EP/F-195.recal.bam
+load  /well/jknight/kate/exomes/recal/GLAS_EP/M-195.recal.bam
+load  /well/jknight/kate/exomes/recal/GLAS_EP/P-195.recal.bam
+load  /well/jknight/kate/exomes/recal/GLAS_EP/B-195.recal.bam
+collapse
+snapshotDirectory /well/jknight/kate/exomes/igv/GLAS_EP/snapshots/genetic
+goto chr1:17018498-17018698
+sort position
+snapshot
+
+goto chr1:35658195-35658395
+sort position
+snapshot
+
+goto chr1:84266620-84266820
+sort position
+snapshot
+
+goto chr1:84266621-84266821
+sort position
+snapshot
+
+goto chr1:109648612-109648812
+sort position
+snapshot
+
+goto chr1:244219895-244220095
+sort position
+snapshot
+
+goto chr2:118582063-118582263
+sort position
+snapshot
+
+goto chr2:118582063-118582263
+sort position
+snapshot
+
+goto chr2:149247294-149247494
+sort position
+snapshot
+
+goto chr2:149247294-149247494
+sort position
+snapshot
+
+goto chr2:166245488-166245688
+sort position
+snapshot
+
+goto chr2:166245488-166245688
+sort position
+snapshot
+
+goto chr2:166245488-166245688
+sort position
+snapshot
+
+goto chr3:9427954-9428154
+sort position
+snapshot
+
+goto chr3:62388711-62388911
+sort position
+snapshot
+
+goto chr3:132212915-132213115
+sort position
+snapshot
+
+goto chr3:132212915-132213115
+sort position
+snapshot
+
+goto chr3:178742085-178742285
+sort position
+snapshot
+
+goto chr3:178742086-178742286
+sort position
+snapshot
+
+goto chr4:961979-962179
+sort position
+snapshot
+
+goto chr4:3310617-3310817
+sort position
+snapshot
+
+goto chr4:3310702-3310902
+sort position
+snapshot
+
+goto chr4:3310705-3310905
+sort position
+snapshot
+
+goto chr4:15071400-15071600
+sort position
+snapshot
+
+goto chr4:25200500-25200700
+sort position
+snapshot
+
+goto chr4:25200507-25200707
+sort position
+snapshot
+
+goto chr5:38820821-38821021
+sort position
+snapshot
+
+goto chr5:129116077-129116277
+sort position
+snapshot
+
+goto chr5:171201526-171201726
+sort position
+snapshot
+
+goto chr5:171201526-171201726
+sort position
+snapshot
+
+goto chr6:16737987-16738187
+sort position
+snapshot
+
+goto chr6:32517679-32517879
+sort position
+snapshot
+
+goto chr6:32517761-32517961
+sort position
+snapshot
+
+goto chr8:6378707-6378907
+sort position
+snapshot
+
+goto chr8:6378709-6378909
+sort position
+snapshot
+
+goto chr8:6378709-6378909
+sort position
+snapshot
+
+goto chr8:6378710-6378910
+sort position
+snapshot
+
+goto chr8:6378713-6378913
+sort position
+snapshot
+
+goto chr8:22212797-22212997
+sort position
+snapshot
+
+goto chr8:61778675-61778875
+sort position
+snapshot
+
+goto chr8:77766964-77767164
+sort position
+snapshot
+
+goto chr8:77766964-77767164
+sort position
+snapshot
+
+goto chr8:77766964-77767164
+sort position
+snapshot
+
+goto chr9:37745233-37745433
+sort position
+snapshot
+
+goto chr9:37745233-37745433
+sort position
+snapshot
+
+goto chr9:69200498-69200698
+sort position
+snapshot
+
+goto chr9:131019623-131019823
+sort position
+snapshot
+
+goto chr10:696730-696930
+sort position
+snapshot
+
+goto chr10:15008509-15008709
+sort position
+snapshot
+
+goto chr10:38696501-38696701
+sort position
+snapshot
+
+goto chr10:50917913-50918113
+sort position
+snapshot
+
+goto chr10:55600142-55600342
+sort position
+snapshot
+
+goto chr11:639903-640103
+sort position
+snapshot
+
+goto chr11:1642906-1643106
+sort position
+snapshot
+
+goto chr11:105947336-105947536
+sort position
+snapshot
+
+goto chr11:133794648-133794848
+sort position
+snapshot
+
+goto chr11:133794648-133794848
+sort position
+snapshot
+
+goto chr12:6709684-6709884
+sort position
+snapshot
+
+goto chr12:6709684-6709884
+sort position
+snapshot
+
+goto chr12:40880310-40880510
+sort position
+snapshot
+
+goto chr12:40880325-40880525
+sort position
+snapshot
+
+goto chr12:56335893-56336093
+sort position
+snapshot
+
+goto chr12:56335893-56336093
+sort position
+snapshot
+
+goto chr12:57554793-57554993
+sort position
+snapshot
+
+goto chr12:57554793-57554993
+sort position
+snapshot
+
+goto chr12:132285871-132286071
+sort position
+snapshot
+
+goto chr13:52649864-52650064
+sort position
+snapshot
+
+goto chr13:52649864-52650064
+sort position
+snapshot
+
+goto chr13:52649866-52650066
+sort position
+snapshot
+
+goto chr13:52649867-52650067
+sort position
+snapshot
+
+goto chr14:26915218-26915418
+sort position
+snapshot
+
+goto chr14:58949123-58949323
+sort position
+snapshot
+
+goto chr14:58949124-58949324
+sort position
+snapshot
+
+goto chr14:63173201-63173401
+sort position
+snapshot
+
+goto chr14:67647825-67648025
+sort position
+snapshot
+
+goto chr14:74189435-74189635
+sort position
+snapshot
+
+goto chr14:78146161-78146361
+sort position
+snapshot
+
+goto chr15:77236105-77236305
+sort position
+snapshot
+
+goto chr15:77236105-77236305
+sort position
+snapshot
+
+goto chr16:67695828-67696028
+sort position
+snapshot
+
+goto chr16:67695828-67696028
+sort position
+snapshot
+
+goto chr16:76555835-76556035
+sort position
+snapshot
+
+goto chr16:88772839-88773039
+sort position
+snapshot
+
+goto chr17:38804083-38804283
+sort position
+snapshot
+
+goto chr17:48593866-48594066
+sort position
+snapshot
+
+goto chr17:64806721-64806921
+sort position
+snapshot
+
+goto chr17:72345255-72345455
+sort position
+snapshot
+
+goto chr17:73809188-73809388
+sort position
+snapshot
+
+goto chr17:73809188-73809388
+sort position
+snapshot
+
+goto chr18:6949065-6949265
+sort position
+snapshot
+
+goto chr19:37753885-37754085
+sort position
+snapshot
+
+goto chr20:25203508-25203708
+sort position
+snapshot
+
+goto chr20:35438365-35438565
+sort position
+snapshot
+
+goto chr20:35438365-35438565
+sort position
+snapshot
+
+goto chr21:16333930-16334130
+sort position
+snapshot
+
+goto chr21:46413717-46413917
+sort position
+snapshot
+
+goto chr22:41623218-41623418
+sort position
+snapshot
+
+goto chrX:11793262-11793462
+sort position
+snapshot
+
+goto chrX:54835669-54835869
+sort position
+snapshot
+
+goto chrX:54835669-54835869
+sort position
+snapshot
+
+goto chrX:101576706-101576906
+sort position
+snapshot
+
+goto chrX:155251654-155251854
+sort position
+snapshot
+
+goto chr7:128483228-128483428
+sort position
+snapshot
+
+goto chr7:128484120-128484320
+sort position
+snapshot
+
+goto chr1:17018498-17018698
+sort position
+snapshot
+
+goto chr1:22154818-22155018
+sort position
+snapshot
+
+goto chr1:64644632-64644832
+sort position
+snapshot
+
+goto chr1:87574759-87574959
+sort position
+snapshot
+
+goto chr1:109538098-109538298
+sort position
+snapshot
+
+goto chr1:145325981-145326181
+sort position
+snapshot
+
+goto chr1:145325982-145326182
+sort position
+snapshot
+
+goto chr1:146473793-146473993
+sort position
+snapshot
+
+goto chr1:153907292-153907492
+sort position
+snapshot
+
+goto chr1:153907292-153907492
+sort position
+snapshot
+
+goto chr1:201196035-201196235
+sort position
+snapshot
+
+goto chr2:30864666-30864866
+sort position
+snapshot
+
+goto chr2:118582063-118582263
+sort position
+snapshot
+
+goto chr2:118582063-118582263
+sort position
+snapshot
+
+goto chr2:178364244-178364444
+sort position
+snapshot
+
+goto chr2:178364244-178364444
+sort position
+snapshot
+
+goto chr2:178364245-178364445
+sort position
+snapshot
+
+goto chr2:178364245-178364445
+sort position
+snapshot
+
+goto chr2:178364245-178364445
+sort position
+snapshot
+
+goto chr2:238243200-238243400
+sort position
+snapshot
+
+goto chr3:9427954-9428154
+sort position
+snapshot
+
+goto chr3:62388711-62388911
+sort position
+snapshot
+
+goto chr3:128181709-128181909
+sort position
+snapshot
+
+goto chr3:132212915-132213115
+sort position
+snapshot
+
+goto chr3:132212915-132213115
+sort position
+snapshot
+
+goto chr3:185867878-185868078
+sort position
+snapshot
+
+goto chr3:186575986-186576186
+sort position
+snapshot
+
+goto chr4:961979-962179
+sort position
+snapshot
+
+goto chr4:166262847-166263047
+sort position
+snapshot
+
+goto chr4:190742727-190742927
+sort position
+snapshot
+
+goto chr5:88261627-88261827
+sort position
+snapshot
+
+goto chr6:12718823-12719023
+sort position
+snapshot
+
+goto chr6:16737987-16738187
+sort position
+snapshot
+
+goto chr7:20042462-20042662
+sort position
+snapshot
+
+goto chr7:20042465-20042665
+sort position
+snapshot
+
+goto chr8:22212797-22212997
+sort position
+snapshot
+
+goto chr8:90965573-90965773
+sort position
+snapshot
+
+goto chr8:90965577-90965777
+sort position
+snapshot
+
+goto chr8:90965577-90965777
+sort position
+snapshot
+
+goto chr8:90965578-90965778
+sort position
+snapshot
+
+goto chr8:90965580-90965780
+sort position
+snapshot
+
+goto chr9:2192702-2192902
+sort position
+snapshot
+
+goto chr9:131019623-131019823
+sort position
+snapshot
+
+goto chr10:38696501-38696701
+sort position
+snapshot
+
+goto chr10:50917913-50918113
+sort position
+snapshot
+
+goto chr10:86185549-86185749
+sort position
+snapshot
+
+goto chr10:94274591-94274791
+sort position
+snapshot
+
+goto chr10:94274591-94274791
+sort position
+snapshot
+
+goto chr10:135237879-135238079
+sort position
+snapshot
+
+goto chr11:639903-640103
+sort position
+snapshot
+
+goto chr11:15102977-15103177
+sort position
+snapshot
+
+goto chr11:35640329-35640529
+sort position
+snapshot
+
+goto chr11:35640329-35640529
+sort position
+snapshot
+
+goto chr11:56237504-56237704
+sort position
+snapshot
+
+goto chr11:105947336-105947536
+sort position
+snapshot
+
+goto chr11:133794648-133794848
+sort position
+snapshot
+
+goto chr11:133794648-133794848
+sort position
+snapshot
+
+goto chr12:6709684-6709884
+sort position
+snapshot
+
+goto chr12:6709684-6709884
+sort position
+snapshot
+
+goto chr12:8391273-8391473
+sort position
+snapshot
+
+goto chr12:8391318-8391518
+sort position
+snapshot
+
+goto chr12:40148857-40149057
+sort position
+snapshot
+
+goto chr12:40880310-40880510
+sort position
+snapshot
+
+goto chr12:40881927-40882127
+sort position
+snapshot
+
+goto chr12:45444516-45444716
+sort position
+snapshot
+
+goto chr12:47197478-47197678
+sort position
+snapshot
+
+goto chr12:47197478-47197678
+sort position
+snapshot
+
+goto chr12:103203507-103203707
+sort position
+snapshot
+
+goto chr12:103203512-103203712
+sort position
+snapshot
+
+goto chr12:132285871-132286071
+sort position
+snapshot
+
+goto chr13:41303459-41303659
+sort position
+snapshot
+
+goto chr13:52754690-52754890
+sort position
+snapshot
+
+goto chr13:52754691-52754891
+sort position
+snapshot
+
+goto chr13:52754691-52754891
+sort position
+snapshot
+
+goto chr14:20010321-20010521
+sort position
+snapshot
+
+goto chr14:56078751-56078951
+sort position
+snapshot
+
+goto chr14:56078751-56078951
+sort position
+snapshot
+
+goto chr14:57756649-57756849
+sort position
+snapshot
+
+goto chr14:57756653-57756853
+sort position
+snapshot
+
+goto chr14:57756654-57756854
+sort position
+snapshot
+
+goto chr14:63173201-63173401
+sort position
+snapshot
+
+goto chr14:67647825-67648025
+sort position
+snapshot
+
+goto chr14:74189435-74189635
+sort position
+snapshot
+
+goto chr14:74993949-74994149
+sort position
+snapshot
+
+goto chr14:78146161-78146361
+sort position
+snapshot
+
+goto chr14:95555452-95555652
+sort position
+snapshot
+
+goto chr15:48066117-48066317
+sort position
+snapshot
+
+goto chr15:62538704-62538904
+sort position
+snapshot
+
+goto chr15:77236105-77236305
+sort position
+snapshot
+
+goto chr15:77236105-77236305
+sort position
+snapshot
+
+goto chr16:1277525-1277725
+sort position
+snapshot
+
+goto chr16:67695828-67696028
+sort position
+snapshot
+
+goto chr16:67695828-67696028
+sort position
+snapshot
+
+goto chr16:76555835-76556035
+sort position
+snapshot
+
+goto chr17:1638882-1639082
+sort position
+snapshot
+
+goto chr17:1638882-1639082
+sort position
+snapshot
+
+goto chr17:19284630-19284830
+sort position
+snapshot
+
+goto chr17:56276809-56277009
+sort position
+snapshot
+
+goto chr17:64806721-64806921
+sort position
+snapshot
+
+goto chr17:72345255-72345455
+sort position
+snapshot
+
+goto chr18:6949065-6949265
+sort position
+snapshot
+
+goto chr18:56084002-56084202
+sort position
+snapshot
+
+goto chr19:57039321-57039521
+sort position
+snapshot
+
+goto chr19:57039322-57039522
+sort position
+snapshot
+
+goto chr19:58916042-58916242
+sort position
+snapshot
+
+goto chr20:25203508-25203708
+sort position
+snapshot
+
+goto chr20:35438365-35438565
+sort position
+snapshot
+
+goto chr20:35438365-35438565
+sort position
+snapshot
+
+goto chr21:16333930-16334130
+sort position
+snapshot
+
+goto chr21:44189074-44189274
+sort position
+snapshot
+
+goto chr21:44189074-44189274
+sort position
+snapshot
+
+goto chr21:46540607-46540807
+sort position
+snapshot
+
+goto chr21:46540607-46540807
+sort position
+snapshot
+
+goto chr22:16449299-16449499
+sort position
+snapshot
+
+goto chr22:16449299-16449499
+sort position
+snapshot
+
+goto chr22:41623218-41623418
+sort position
+snapshot
+
+goto chr22:51223584-51223784
+sort position
+snapshot
+
+goto chr21:47811084-47811284
+sort position
+snapshot
+
+goto chr21:47855895-47856095
+sort position
+snapshot
